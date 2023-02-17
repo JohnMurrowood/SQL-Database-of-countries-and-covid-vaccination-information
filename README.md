@@ -9,5 +9,5 @@ The project repository contains the following files:
 - Vaccinations.db: Created SQL database
 - Queries.sql: The queries entered into the database
 - Model_PDF.pdf: Contains information on the cganges made to initial dataset, final schema used for database and the ER diagram used.
-- Query_REsults_PDF.pdf: contains output of queries used and visualisations.
+- Query_Results_PDF.pdf: contains output of queries used and visualisations.
 
